@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Hello!&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=fadeIn" alt="header" />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26amp%3Bcolor%3D000000%26amp%3Bheight%3D200%26amp%3Bsection%3Dheader%26amp%3Btext%3DHello!%26amp%3BfontSize%3D70%26amp%3BfontColor%3Dffffff%26amp%3BfontAlign%3D50%26amp%3BfontAlignY%3D35%26amp%3Banimation%3DfadeIn" alt="header" />
 
 <h1>안녕하세요! 👋 코딩하는 교사, 박권(Kwon Park)입니다.</h1>
 
 <h3>🍎 Teacher | 💻 Code Enthusiast</h3>
 
 <b>"교육(Education)과 기술(Technology)의 연결고리를 만들어갑니다."</b>
-
-
 
 
 
@@ -42,29 +40,24 @@
 
 <h3>🛠️ Tech Stack & Tools (Learning Journey)</h3>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat-square%26amp%3Blogo%3DPython%26amp%3BlogoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dflat-square%26amp%3Blogo%3DJavaScript%26amp%3BlogoColor%3Dblack"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dflat-square%26amp%3Blogo%3Dhtml5%26amp%3BlogoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dflat-square%26amp%3Blogo%3Dgit%26amp%3BlogoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Visual%2520Studio%2520Code-007ACC%3Fstyle%3Dflat-square%26amp%3Blogo%3DVisual%2520Studio%2520Code%26amp%3BlogoColor%3Dwhite"/>
 
 <h3>📈 GitHub Stats</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=techkwon&show_icons=true&theme=radical&hide_border=true" alt="techkwon's Github Stats" height="160" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techkwon&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="160" />
-</a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dtechkwon%26amp%3Bshow_icons%3Dtrue%26amp%3Btheme%3Dradical%26amp%3Bhide_border%3Dtrue" alt="techkwon's Github Stats" height="160" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dtechkwon%26amp%3Blayout%3Dcompact%26amp%3Btheme%3Dradical%26amp%3Bhide_border%3Dtrue%26amp%3Blangs_count%3D6" alt="Top Languages" height="160" /></a>
 
 <h3>📫 Connect with Me</h3>
 
-<a href="https://techkwon.kr" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white" alt="Website"/></a>
-<a href="https://www.instagram.com/techkwon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.threads.net/@techkwon" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=Threads&logoColor=white" alt="Threads"/></a>
-<a href="https://www.facebook.com/techkwon" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://x.com/Maerd9" target="_blank"><img src="https://img.shields.io/badge/X (Twitter)-000000?style=flat-square&logo=X&logoColor=white" alt="X"/></a>
+<a href="https://techkwon.kr" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-000000%3Fstyle%3Dflat-square%26amp%3Blogo%3DAbout.me%26amp%3BlogoColor%3Dwhite" alt="Website"/></a>
+<a href="https://www.instagram.com/techkwon/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dflat-square%26amp%3Blogo%3DInstagram%26amp%3BlogoColor%3Dwhite" alt="Instagram"/></a>
+<a href="https://www.threads.net/@techkwon" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Threads-000000%3Fstyle%3Dflat-square%26amp%3Blogo%3DThreads%26amp%3BlogoColor%3Dwhite" alt="Threads"/></a>
+<a href="https://www.facebook.com/techkwon" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Facebook-1877F2%3Fstyle%3Dflat-square%26amp%3Blogo%3DFacebook%26amp%3BlogoColor%3Dwhite" alt="Facebook"/></a>
+<a href="https://x.com/Maerd9" target="_blank"><img src="https://img.shields.io/badge/X (Twitter)-000000?style=flat-square&amp;logo=X&amp;logoColor=white" alt="X"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=techkwon&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dtechkwon%26amp%3Blabel%3DProfile%2520Views%26amp%3Bcolor%3Dblueviolet%26amp%3Bstyle%3Dflat-square" alt="Profile Views" />
 
 </div>
