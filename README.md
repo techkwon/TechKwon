@@ -32,16 +32,25 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&amp;logo=Visual%20Studio%20Code&amp;logoColor=white" />
   </p>
 
-  <h3>📈 GitHub Stats</h3>
+<h3>📈 GitHub Stats</h3>
 
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=techkwon&amp;show_icons=true&amp;theme=radical&amp;hide_border=true" alt="techkwon's Github Stats" height="160" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techkwon&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;langs_count=6" alt="Top Languages" height="160" />
-    </a>
-  </p>
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=techkwon&amp;show_icons=true&amp;theme=radical&amp;hide_border=true"
+      alt="techkwon's Github Stats"
+      height="160"
+    />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=techkwon&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;langs_count=6"
+      alt="Top Languages"
+      height="160"
+    />
+  </a>
+</p>
 
   <h3>📫 Connect with Me</h3>
 
