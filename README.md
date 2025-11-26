@@ -56,7 +56,7 @@
 <a href="https://www.instagram.com/techkwon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.threads.net/@techkwon" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=Threads&logoColor=white" alt="Threads"/></a>
 <a href="https://www.facebook.com/techkwon" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://x.com/Maerd9" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/X%2520(Twitter)-000000%3Fstyle%3Dflat-square%26logo%3DX%26logoColor%3Dwhite" alt="X"/></a>
+<a href="https://x.com/Maerd9" target="_blank"><img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/X-000000?style=flat-square%26logo=X%26logoColor=white" alt="X"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=techkwon&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 
