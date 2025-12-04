@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=000000&amp;height=200&amp;section=header&amp;text=Hello!&amp;fontSize=70&amp;fontColor=ffffff&amp;fontAlign=50&amp;fontAlignY=35&amp;animation=fadeIn" alt="header" />
 
-  <h1>안녕하세요! 👋 코딩하는 교사, 박권(Kwon Park)입니다.</h1>
+  <h1>안녕하세요! 👋 코딩하는 교사, TechKwon입니다.</h1>
 
   <h3>🍎 Teacher | 💻 Code Enthusiast</h3>
 
