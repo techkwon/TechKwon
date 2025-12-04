@@ -61,13 +61,13 @@
 
   <h2>🌐 Connect with Me</h2>
   <p>
-    <a href="https://techkwon.kr" target="_blank">
-      <img src="https://img.shields.io/badge/Website-FF6B9D?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+    <a href="https://blog.naver.com/tech_kwon" target="_blank">
+      <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="Naver Blog" />
     </a>
     <a href="https://www.instagram.com/techkwon/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://www.threads.net/@techkwon" target="_blank">
+    <a href="https://www.threads.com/@techkwon" target="_blank">
       <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads" />
     </a>
     <a href="https://www.facebook.com/techkwon" target="_blank">
