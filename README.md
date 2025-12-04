@@ -37,7 +37,7 @@
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=techkwon&amp;show_icons=true&amp;theme=radical&amp;hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=techkwon&show_icons=true&theme=radical&hide_border=true"
       alt="techkwon's Github Stats"
       height="160"
     />
@@ -45,7 +45,7 @@
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=techkwon&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;langs_count=6"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=techkwon&layout=compact&theme=radical&hide_border=true&langs_count=6"
       alt="Top Languages"
       height="160"
     />
