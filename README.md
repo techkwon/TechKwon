@@ -37,7 +37,7 @@
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=techkwon&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=techkwon&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
       alt="techkwon's Github Stats"
       height="160"
     />
@@ -45,12 +45,13 @@
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=techkwon&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=86400"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=techkwon&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=1800"
       alt="Top Languages"
       height="160"
     />
   </a>
 </p>
+
 
 
   <h3>📫 Connect with Me</h3>
