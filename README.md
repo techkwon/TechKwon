@@ -73,7 +73,7 @@
     <a href="https://www.facebook.com/techkwon" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
     </a>
-    <a href="https://x.com/Maerd9" target="_blank">
+    <a href="https://x.com/TechKwon9" target="_blank">
       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" alt="X" />
     </a>
   </p>
