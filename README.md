@@ -62,6 +62,14 @@
 ## 🏅 Certifications & Badges
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/7c5203a9-c9fd-420a-8920-90323d9cd570" title="ChatGPT Foundations for Teachers"><img src="https://images.credly.com/size/80x80/images/24fcfd23-9a1c-4963-b403-a830a2148489/blob" alt="ChatGPT Foundations for Teachers" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/4737de46-7730-44bb-9241-e0eb951e386d" title="Microsoft Innovative Educator Expert 2025-2026"><img src="https://images.credly.com/size/80x80/images/f2fcdaf4-c289-48f7-a5b6-e367fe64e29d/blob" alt="Microsoft Innovative Educator Expert 2025-2026" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/838e0ec8-fdca-47d2-99e3-190bcb2ea6e0" title="Microsoft AI Skills"><img src="https://images.credly.com/size/80x80/images/83286bf4-b605-45f6-a816-d0c976a0dfd2/blob" alt="Microsoft AI Skills" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/27b9c108-871e-4358-96a3-10eee447ce30" title="Inspect Rich Documents with Gemini Multimodality and Multimodal RAG Skill Badge"><img src="https://images.credly.com/size/80x80/images/86a3283f-3e35-494f-82da-3fb3e89ba223/image.png" alt="Inspect Rich Documents with Gemini Multimodality and Multimodal RAG Skill Badge" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/954c80ba-6b9f-4fc6-9a22-3270597eb459" title="Develop GenAI Apps with Gemini and Streamlit Skill Badge"><img src="https://images.credly.com/size/80x80/images/1dbef1bd-cdb0-40e1-bff4-8200448c3161/blob" alt="Develop GenAI Apps with Gemini and Streamlit Skill Badge" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/7d36f0aa-6414-468d-be75-68253a2a19fd" title="Prompt Design in Vertex AI Skill Badge"><img src="https://images.credly.com/size/80x80/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" alt="Prompt Design in Vertex AI Skill Badge" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/61c03b02-6721-4823-878d-027f8fa3cc85" title="Microsoft Innovative Educator Expert 2024-2025"><img src="https://images.credly.com/size/80x80/images/d8735f16-e09d-42cf-8407-0af4823c6c60/image.png" alt="Microsoft Innovative Educator Expert 2024-2025" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/77c8bc58-6392-4910-950e-8e2ee414870a" title="Microsoft Innovative Educator Expert 2023-2024"><img src="https://images.credly.com/size/80x80/images/5e2df44e-055b-4126-8113-604e80b09e2d/image.png" alt="Microsoft Innovative Educator Expert 2023-2024" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 
