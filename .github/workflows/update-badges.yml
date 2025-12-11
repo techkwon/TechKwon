@@ -1,0 +1,21 @@
+name: Update Credly Badges
+
+on:
+  schedule:
+    - cron: "0 2 * * 0"  # 매주 일요일 오전 11시(KST)에 실행
+  workflow_dispatch:  # 수동 실행 가능
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:
+          CREDLY_USER: kwon-park
+          CREDLY_SORT: RECENT
+          NUMBER_LAST_BADGES: 10
