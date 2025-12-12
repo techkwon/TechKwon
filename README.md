@@ -71,7 +71,10 @@
 <a href="https://www.credly.com/badges/61c03b02-6721-4823-878d-027f8fa3cc85" title="Microsoft Innovative Educator Expert 2024-2025"><img src="https://images.credly.com/size/80x80/images/d8735f16-e09d-42cf-8407-0af4823c6c60/image.png" alt="Microsoft Innovative Educator Expert 2024-2025" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/77c8bc58-6392-4910-950e-8e2ee414870a" title="Microsoft Innovative Educator Expert 2023-2024"><img src="https://images.credly.com/size/80x80/images/5e2df44e-055b-4126-8113-604e80b09e2d/image.png" alt="Microsoft Innovative Educator Expert 2023-2024" width="80" height="80"></a>
 <!--END_SECTION:badges-->
-
+<p>
+  <a href="https://edudirectory.withgoogle.com/" title="Google Certified Trainer"><img src="https://edudirectory.withgoogle.com/static/img/profile/Trainer.png" alt="Google Certified Trainer" width="80" height="80"></a>
+  <a href="https://edudirectory.withgoogle.com/" title="Google Certified Innovator"><img src="https://edudirectory.withgoogle.com/static/img/profile/Innovator.png" alt="Google Certified Innovator" width="80" height="80"></a>
+</p>
 
   <h2>🌐 Connect with Me</h2>
   <p>
