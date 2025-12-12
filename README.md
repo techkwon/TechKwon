@@ -74,6 +74,7 @@
 <p>
   <a href="https://edudirectory.withgoogle.com/" title="Google Certified Trainer"><img src="https://edudirectory.withgoogle.com/static/img/profile/Trainer.png" alt="Google Certified Trainer" width="80" height="80"></a>
   <a href="https://edudirectory.withgoogle.com/" title="Google Certified Innovator"><img src="https://edudirectory.withgoogle.com/static/img/profile/Innovator.png" alt="Google Certified Innovator" width="80" height="80"></a>
+  <a href="https://grow.google/" title="Google Gen AI Certification"><img src="https://drive.google.com/uc?export=view&id=1oxMR6P74AnpNRnJarlbFINdbVavJv2YA" alt="Google Gen AI Certification" width="80" height="80"></a>
 </p>
 
   <h2>🌐 Connect with Me</h2>
