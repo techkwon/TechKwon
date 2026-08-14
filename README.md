@@ -46,10 +46,10 @@
   <h2>📊 GitHub Stats</h2>
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=techkwon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=FF6B9D&icon_color=79dafa&text_color=a9fef7&cache_seconds=1800" alt="techkwon's Github Stats" height="180" />
+      <img src="https://github-readme-stats-xi-gray-48.vercel.app/api?username=techkwon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=FF6B9D&icon_color=79dafa&text_color=a9fef7&cache_seconds=1800" alt="techkwon's Github Stats" height="180" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=techkwon&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=FF6B9D&text_color=a9fef7&langs_count=6&cache_seconds=1800" alt="Top Languages" height="180" />
+      <img src="https://github-readme-stats-xi-gray-48.vercel.app/api/top-langs/?username=techkwon&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=FF6B9D&text_color=a9fef7&langs_count=6&cache_seconds=1800" alt="Top Languages" height="180" />
     </a>
   </p>
 
